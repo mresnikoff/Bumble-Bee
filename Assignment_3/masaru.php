@@ -28,7 +28,7 @@ I had an internship at CITIC Securities Co., Ltd, Investment Banking Department.
 </div>
 	<aside>
 
-		<h2>More abour Masaru</h2>
+		<h2>More about Masaru</h2>
 		<p>The courses I've taken consist of Financial Accounting; Managerial Accounting; Web page designing, The science of programming; computational introduction to statistics; microeconomics; macroeconomics; econometrics; economics of globalization; industrial organization; financial management; investments; calculus; multidimensional calculus; probability; linear algebra with differential equation; financial mathematics; Spanish; math statistics.</p>
 
 		

@@ -6,7 +6,7 @@
     <script src="js/menu-highlighter.js"></script>
             <title>HOME</title>  
             <link rel="stylesheet" type="text/css" href="css/navigation.css">
-            <link rel="stylesheet" type="text/css" href="CSS/styles.css">
+            <link rel="stylesheet" type="text/css" href="a3css/styles.css">
             <link rel="stylesheet" href="sss/sss.css">
             <link rel="stylesheet" href="http://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
       </head>

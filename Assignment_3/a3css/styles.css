@@ -104,7 +104,9 @@ img {
 
 #bodyContainer3 {
     color:grey;
+    margin: 0 auto;
     width: 80%;
+    max-width: 960px;
 }
 #bodyContainer2{
     color:grey;
@@ -112,8 +114,8 @@ img {
 /* The usage of this image here shows the proximity and allignment principles well*/
 #bodyContainer3 img{
     float: right;
-    width: 300px;
-    height: 450px;
+    width: 275px;
+    height: 350px;
     border: 1px solid #999999;
     padding: 5px
     border-bottom:5px;

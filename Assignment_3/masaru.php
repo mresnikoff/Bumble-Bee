@@ -2,9 +2,8 @@
 
 
 
-
-	<article>
 		<div id = "bodyContainer3">
+	<article>
 
 		<h2>Masaru Fujimaki</h2>
 		
@@ -43,7 +42,7 @@
 
 		
 	</aside>
-
+		</div>
 	
 
 </div><!--.container-->

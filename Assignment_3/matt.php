@@ -13,10 +13,13 @@
 		<p> 
 		   
 		<ul>
-                	<li> Junior at the U of R, majoring in Economics and double minoring in Computer Science and Journalism
- </li>
+                	<li> Junior at the U of R, majoring in Economics and double minoring in Computer Science and Journalism </li>
                 	<li> Originally, I am from West Long Branch, New Jersey. It’s about 15 minutes to the beach. Woo! </li>
                 	<li> On top of being pretty into sports I also am a big comic book guy </li>
+			<li> I got into Comp Sci fairly recently, but I have a lot of fun with the coding aspects which is why I decided to start off as the group coder. </li>
+			<li> I'm a huge Indianapolis Colts fan so don't try talking to me about football right now since it was a pretty rough year for me. </li>
+			<li> I'm a huge fan of all the Marvel movies that've been coming out, not so keen on the DC stuff since it's kind of sucked but I'm a big fan of the DC characters. </li>
+			<li> In school, I have found that I thoroughly enjoy collecting rocks, of all different sizes. My collection is the main source of my happiness right now </li>
                 </ul>
 		
 

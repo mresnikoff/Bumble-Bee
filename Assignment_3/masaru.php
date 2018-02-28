@@ -2,9 +2,8 @@
 
 
 
-		<div id = "bodyContainer3">
 	<article>
-
+		<div id = "bodyContainer3">
 		<h2>Masaru Fujimaki</h2>
 		
 <img src="images/masaru.png" alt="Fed">
@@ -23,9 +22,6 @@
 
 
 		</p>
-	</article>
-</div>
-	<aside>
 
 		<h2> Tennis Highlights </h2>
 		<p> 
@@ -41,8 +37,8 @@
 		</p>
 
 		
-	</aside>
 		</div>
+		</article>
 	
 
 </div><!--.container-->

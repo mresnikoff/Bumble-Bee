@@ -31,6 +31,7 @@
 			<li> Originally came to the U of R to play on the Varsity tennis team </li>
 			<li> Other highlights include traveling to many countries, coding multiple websites and listening to trance music </li>
 			<li> Avid fan of watching any tennis match </li>
+		</ul>
 
 </p>
 

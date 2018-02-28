@@ -23,10 +23,6 @@
 
 
 		</p>
-	</article>
-</div>
-	<aside>
-
 		<h2>Tennis Highlights</h2>
 		<p> 
 		<ul>
@@ -40,6 +36,8 @@
 
 		
 		</p>
+		</div>
+	</article>
 	
 
 	

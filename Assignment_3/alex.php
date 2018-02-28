@@ -22,7 +22,7 @@
 
 		</p>
 	
-</div>
+
 	
 		
 		<h2>Tennis Highlights</h2>
@@ -37,7 +37,7 @@
 
 
 		
-	</div>
+		</div>
 
 </article>	
 
